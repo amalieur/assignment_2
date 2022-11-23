@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/api/HTTPThing/numericalintegralservice/0/3.14159,HTTPError('404 Client Error: Not Found for url: http://localhost:7071/api/HTTPThing/numericalintegralservice/0/3.14159'),97499
